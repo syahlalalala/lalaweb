@@ -9,38 +9,26 @@
 
         <div class="row justify-content-center">
         <!-- card 1 -->
+        @foreach ($eskul as $item )
+            
+        
         <div class="col-lg-6">
         <div class="card mb-3" style="max-width: 800px;">
             <div class="row g-0 px-3">
                 <div class="col-md-3 my-3">
-                    <img src="https://web-sekolah-tawny.vercel.app/_nuxt/ec.BQTqDsuh.jpg" class="img-fluid rounded-start" alt="...">
+                    <img src={{ $item->gambar }} class="img-fluid rounded-start" alt="...">
                 </div>
                 <div class="col-md-9">
                     <div class="card-body">
-                        <h5 class="card-title">English Club</h5>
-                        <p class="card-text text-start">Melatih kemampuan berbahasa Inggris melalui diskusi, debat, dan kegiatan interaktif lainnya.</p>
+                        <h5 class="card-title">{{ $item->judul }}</h5>
+                        <p class="card-text text-start">{{ $item->deskripsi }}</p>
                     </div>
                 </div>
             </div>
         </div>
         </div>
-        <!-- card 2 -->
-        <div class="col-lg-6">
-        <div class="card mb-3" style="max-width: 800px; ">
-            <div class="row g-0 px-3">
-                <div class="col-md-3 my-3">
-                    <img src="https://web-sekolah-tawny.vercel.app/_nuxt/it.BYa_G51_.jpg" class="img-fluid rounded-start" alt="...">
-                </div>
-                <div class="col-md-9">
-                    <div class="card-body">
-                        <h5 class="card-title">Safety Riding</h5>
-                        <p class="card-text text-start">Mengembangkan kamampuan bermotor</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-        <!-- card 3 -->
+        @endforeach
+        {{-- <!-- card 3 -->
         <div class="col-lg-6">
         <div class="card mb-3" style="max-width: 800px;">
             <div class="row g-0 px-3">
@@ -301,7 +289,7 @@
         </div>
     </div>
     </div>
-</div>
+</div> --}}
 
  <!-- End Section Ekstakulikuler -->
 

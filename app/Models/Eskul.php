@@ -2,16 +2,16 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\Hasfactory;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Berita extends Model
+class Eskul extends Model
 {
-    use HasFactory;
+     use HasFactory;
 
     protected $fillable = [
         'judul',
         'gambar',
-        'link'
+        'deskripsi'
     ];
 }

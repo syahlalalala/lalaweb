@@ -11,6 +11,5 @@
     <p><strong>gambar:</strong><br>{{ $berita->gambar ?? '-' }}</p>
     <p><strong>isi:</strong><br>{{ $berita->isi ?? '-' }}</p>
 
-    <a href="{{ route('berita.edit') }}" class="btn btn-primary">Edit Berita</a>
+    <a href="" class="btn btn-primary">Edit Berita</a>
 </div>
-@endsection
