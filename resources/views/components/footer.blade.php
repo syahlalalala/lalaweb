@@ -2,7 +2,7 @@
     <footer class="bg-primary-subtle">
         <div class="container">
 <div class="row mt-5">
-    <div class="col-lg-12 mt-3 rounded">
+    <div class="col-lg-12 mt-3 ">
         <div class="row">
             <div class="col-lg-5" style="max-height: 300px; ">
                 <h3>Alamat</h3>

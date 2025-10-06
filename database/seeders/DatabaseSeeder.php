@@ -18,7 +18,8 @@ class DatabaseSeeder extends Seeder
 
             $this->call([
                 BeritaSeeder::class,
-                EskulSeeder::class
+                EskulSeeder::class,
+                GaleriSeeder::class
             ]);
      
     }

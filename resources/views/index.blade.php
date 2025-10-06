@@ -12,7 +12,7 @@
 <!-- Section Sambutan -->
     <div class="row mt-5">
         <div class="col-lg-12 d-flex justify-content-center">
-            <div class="card mb-3">
+            <div class="card mb-3 bg-light">
             <div class="row g-0">
                 <div class="col-md-3">
                     <img src="https://smkn4tasikmalaya.netlify.app/assets/image/kepsek.png" class="img-fluid rounded-start" alt="...">
@@ -175,7 +175,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div> 
             <div class="text-center my-4">
-            <a class="btn btn-outline-primary" href="galeri.html">Lihat Lainnya</a>
+            <a class="btn btn-outline-primary" href="/galeri">Lihat Lainnya</a>
             </div>
         </div>
     </div>
@@ -186,7 +186,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
     <div class="col-lg-12 d-flex flex-column align-items-center mt-3">
         
 
-        <div class="card mb-3" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/10.Dc3lvKQn.png" class="img-fluid rounded-start" alt="...">
@@ -199,7 +199,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/8.BGpmPo-N.png" class="img-fluid rounded-start" alt="...">
@@ -212,7 +212,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/9.pKvXDRNg.png" class="img-fluid rounded-start" alt="...">
@@ -225,7 +225,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/7.BqMZVcIf.png" class="img-fluid rounded-start" alt="...">
@@ -238,7 +238,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/6.Bex29gdO.png" class="img-fluid rounded-start" alt="...">

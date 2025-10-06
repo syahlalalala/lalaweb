@@ -4,11 +4,11 @@
 
     <div class="row mt-5 text-center">
         <div class="col-lg-12">
-            <h2>Berita</h2>
+            <h2 class="bg-primary-subtle">Berita</h2>
 
             <div class="row">
                 @foreach ($berita as $item)
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 mt-3">
                         <div class="card h-100">
                             <div class="card-header">
                                 <img src={{ $item->gambar }}
