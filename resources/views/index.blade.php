@@ -12,15 +12,16 @@
 <!-- Section Sambutan -->
     <div class="row mt-5">
         <div class="col-lg-12 d-flex justify-content-center">
-            <div class="card mb-3 bg-light">
+            <div class="card mb-3 bg-secondari-subtle">
             <div class="row g-0">
                 <div class="col-md-3">
                     <img src="https://smkn4tasikmalaya.netlify.app/assets/image/kepsek.png" class="img-fluid rounded-start" alt="...">
+                    <h6 class="card-title text-center">Kurniawan, S.Pd., M.Pd</h6>
                 </div>
                 <div class="col-md-9">
                     <div class="card-body">
-                        <h5 class="card-title text-primary text-start">Sambutan Kepala Sekolah</h5>
-                        <h6 class="card-title text-start">Kurniawan, S.Pd., M.Pd</h6>
+                        <h5 class="card-title text-start">Sambutan Kepala Sekolah</h5>
+                    <hr />
                         <p class="card-text text-start">Assalamualaikum Warahmatullahi Wabarakatuh
 Selamat datang di SMKN 4 Tasikmalaya. Segala puji dan syukur kita panjatkan kehadirat Allah SWT, semoga kita semua ada dalam lindungan-Nya. Dan atas perkenan-Nya pula kami dapat menghadirkan website SMK Negeri 4 Tasikmalaya ini. Kami berharap dengan adanya website di SMK Negeri 4 Tasikmalaya ini para pengunjung dapat mengenal lebih jauh tentang sekolah kami sehingga dapat mempererat tali silaturrahmi antara sekolah dengan masyarakat demi kemajuan kita bersama. Tiada gading yang tak retak, website kami ini masih dalam proses pengembangan, masih banyak kekurangan yang harus kami perbaiki. Kritik dan sarannya yang membangun sangat kami harapkan untuk pengembangan ke depan.
 Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak yang tidak dapat disebutkan satu segala bantuan dan persatu atas fasilitasnya yang telah diberikan semoga semua yang kita lakukan bermanfaat bagi masyarakat. Wassalamu'alaikum Warahmatullahi Wabarakatuh.</p>
@@ -33,6 +34,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
 <!-- End Section Sambutan -->
   <!-- Section Statistik -->
     <div class="row mt-3">
+        <h2 class="judul"><i class="bi bi-bar-chart-line-fill"></i> Statistik</h2>
         <div class="col-lg-12">
                 <div class="row mt-3">
                      <div class="col-lg-3">
@@ -78,29 +80,29 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
 <!-- Section Berita -->
     <div class="row mt-5">
             <div class="col-lg-12">
-                <h2 class="bg-primary-subtle text-center">Berita</h2>
+                <h2 class="judul"><i class="bi bi-newspaper"></i> Berita</h2>
 
                 <div class="row mt-3">
                     
                     <div class="col-lg-6">
-                        <div class="card">
+                        <div class="card shadow">
                             <div class="card-header">
                                 <img src="https://assets.radartasik.id/main/2024/10/SMKN-4-tasikmalaya-raih-beasiswa-AHM.webp" width="100%" alt="">
                             </div>
                             <div class="card-body">
-                                <h3 class="text-start">Skill Competition 2024 di selenggarakan oleh Safety Riding Center PT Daya Adicipta Motora Bandung.</h3>
-                                <a class="btn btn-primary" href="https://radartasik.id/2024/10/07/tujuh-siswa-smkn-4-tasikmalaya-raih-beasiswa-dari-yayasan-astra-honda-motor/">Baca Selengkapnya</a>
+                                <h3 class="text-start">Skill Competition 2024 di selenggarakan oleh Safety Riding Center PT Daya Adicipta Motora</h3>
+                                <a target="_blank" class="btn btn-primary" href="https://radartasik.id/2024/10/07/tujuh-siswa-smkn-4-tasikmalaya-raih-beasiswa-dari-yayasan-astra-honda-motor/">Baca Selengkapnya</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="card">
+                        <div class="card shadow">
                             <div class="card-header">
                                 <img src="https://assets.radartasik.id/main/2023/10/SMKN-4.jpg" width="100%" alt="">
                             </div>
                             <div class="card-body">
                                 <h3 class="text-start">Job Fair Untuk Pencari Kerja dan Edu Fair Talkshow Motekar bagi Siswa Siswi dan Alumni SMKN 4 Tasikmalaya</h3>
-                                <a class="btn btn-primary" href="#">Baca Selengkapnya</a>
+                                <a target="_blank" class="btn btn-primary" href="https://ruangatas.com/smkn-4-tasikmalaya-gelar-job-fair-2023-harapkan-angka-pengangguran-di-tasikmalaya-berkurang/">Baca Selengkapnya</a>
                             </div>
                         </div>
                     </div>
@@ -113,64 +115,56 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
 <!-- Section Galeri -->
     <div class="row mt-5">
         <div class="col-lg-12">
-            <h2 class="bg-primary-subtle text-center">Galeri</h2>
+            <h2 class="judul"><i class="bi bi-file-earmark-image"></i> Galeri</h2>
             <div class="row mt-3">
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjMG7ZQjil5gkx1VAeoc3HEJRfNhDctDxlw&s" width="100%" alt="">
-                        </div>
+                    <div class="card shadow">
+                        <img src="https://lh3.googleusercontent.com/pw/AP1GczNHF2CjUBjBQMZeJNEd9TSQIbhCsjBEC7s7dQmrbtrpgYMWezXlUzPBs7vbRQcDwTl2SADTCc_79D6EXRz7TC56xVqanhcnYlJXLkeXnOksfdIh5jCFHi-DvMss8cZGDp8jFYr4sNeorIrpt-wby81yQw=w1140-h641-s-no-gm" width="100%" alt="">
+                        <h6 class="text-center">Pembersihan Lingkungan Sekolah</h6>
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_B81dZw7KnwT-7HpVpZuKs_22lafGQd4f_295rDd8BlfAdZr8MqBY51eTFsqITrvkEo&usqp=CAU" width="100%" alt="">
-                        </div>
+                    <div class="card shadow">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_B81dZw7KnwT-7HpVpZuKs_22lafGQd4f_295rDd8BlfAdZr8MqBY51eTFsqITrvkEo&usqp=CAU" width="100%" alt="">
+                        <h6 class="text-center">Safety Riding</h6>
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
+                    <div class="card shadow">
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8cMC8umHQctANOds6PUmrG9MieCldoo3pg&s" width="100%" alt="">
-                        </div>
+                        <h6 class="text-center">Safety Riding Lab</h6>
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
+                    <div class="card shadow">
                             <img src="https://asset-2.tribunnews.com/jabar/foto/bank/images/Safety-Riding-Lab-Astra-Honda-ke-7-yang-berlokasi-di-Kota-Tasikmalaya.jpg" width="100%" alt="">
-                        </div>
+                        <h6 class="text-center">Safety Riding Lab</h6>
                     </div>
                 </div>
             </div>
             <div class="row mt-4">
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
+                    <div class="card shadow">
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRj54xV9WF3fkKAuE3ftdWRc9G3eVXtMC-A&s" width="100%" alt="">
-                        </div>
+                        <h6 class="text-center">Job Fair</h6>
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
+                    <div class="card shadow">
                             <img src="https://assets.radartasik.id/main/2024/10/SMKN-4-tasikmalaya-raih-beasiswa-AHM.webp" width="100%" alt="">
-                        </div>
+                        <h6 class="text-center">Beasiswa AHM</h6>
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="https://asset-2.tribunnews.com/priangan/foto/bank/images/peresmian-SRL-Astra-Honda.jpg" width="100%" alt="">
-                        </div>
+                    <div class="card shadow">
+                            <img src="https://lh3.googleusercontent.com/pw/AP1GczPEy5-KVjMKFC7-RvXh0W88HhU9wAC1U5IOKf-Bfkbyj7PtwUZiXCoZ1Wfe_oDCYegRyrJgSj66xpOwDGX9Y0Y5kU8rMyEGI3x1Ub5RQmO7YORfbrD0qe49GofBqU2NdoITFxTygJugqjSCGjGR49Ktkw=w1140-h641-s-no-gm" width="100%" alt="">
+                        <h6 class="text-center ">Pengajian Rutin</h6>
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVGcODAxmNy05L7uD9lIu4kBCux-HZGbL00a7BfegY18vGtbA7_rmF9q_xMIICNK0jNE&usqp=CAU" width="100%" alt="">
-                        </div>
+                    <div class="card  shadow">
+                            <img src="https://lh3.googleusercontent.com/pw/AP1GczMLI2u-2RYg8noaOW4c2THbCbYD00VF6qxIUTCvoDC2MCuTT9Y-bsRv3OU7t4rBlTEoVnTangBAfVxI_zH0GTbGP4yF-LRZnYvrQpVs93Hr_R-_X0rHvoVzgxnjNWb7fqPS1w-MXprLzAcRXnVueNo4=w1137-h641-s-no-gm" width="100%" alt="">
+                        <h6 class="text-center">Upacara</h6>
                     </div>
                 </div>
             </div> 
@@ -182,11 +176,11 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
 <!-- End Section Galeri -->
  <!-- Section Jurusan -->
     <div class="row mt-5 ">
-        <h2 class="bg-primary-subtle text-center">Kosentrasi Keahlian</h2>
+        <h2 class="judul">Kosentrasi Keahlian</h2>
     <div class="col-lg-12 d-flex flex-column align-items-center mt-3">
         
 
-        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-success-subtle shadow" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/10.Dc3lvKQn.png" class="img-fluid rounded-start" alt="...">
@@ -199,7 +193,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-primary-subtle shadow" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/8.BGpmPo-N.png" class="img-fluid rounded-start" alt="...">
@@ -212,7 +206,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-danger-subtle shadow" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/9.pKvXDRNg.png" class="img-fluid rounded-start" alt="...">
@@ -225,7 +219,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-warning-subtle shadow" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/7.BqMZVcIf.png" class="img-fluid rounded-start" alt="...">
@@ -238,7 +232,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                 </div>
             </div>
         </div>
-        <div class="card mb-3 bg-light" style="max-width: 800px; max-height: 200px; ">
+        <div class="card mb-3 bg-secondary-subtle shadow" style="max-width: 800px; max-height: 200px; ">
             <div class="row g-0">
                 <div class="col-md-2">
                     <img src="https://web-sekolah-tawny.vercel.app/_nuxt/6.Bex29gdO.png" class="img-fluid rounded-start" alt="...">

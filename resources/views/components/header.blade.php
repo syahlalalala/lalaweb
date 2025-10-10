@@ -15,10 +15,10 @@
 </head>
 <body>
     <!-- Section Navbar -->
-    <nav class="navbar navbar-expand-lg bg-primary-subtle p-2 sticky-top shadow">
+    <nav class="sambutan navbar navbar-expand-lg  p-2 sticky-top shadow">
   <div class="container">
 
-    <a class="navbar-brand text-dark" href="#"  class="d-inline-block align-text-top rounded">
+    <a class="navbar-brand text-white" href="#"  class="d-inline-block align-text-top rounded">
         <img src="./asset/image/logo.png" alt="bootsrap" width="40" height="40">SMKN 4 TASIKMALAYA</a>
     <button class="navbar-toggler bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -26,19 +26,19 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto d-flex gap-3 text-center pt-lg-0 pt-4 fw-semibold">
         <li class="nav-item">
-          <a class="nav-link active text-dark"  href="/">Beranda</a>
+          <a class="nav-link active text-white"  href="/">Beranda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-dark" href="/profil">Profil</a>
+          <a class="nav-link text-white" href="/profil">Profil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-dark" href="/berita">Berita</a>
+          <a class="nav-link text-white" href="/berita">Berita</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-dark" href="/galeri">Galeri</a>
+          <a class="nav-link text-white" href="/galeri">Galeri</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-dark" href="/eskul">Ekstrakulikuler</a>
+          <a class="nav-link text-white" href="/eskul">Ekstrakulikuler</a>
         </li>
       </ul>
     </div>

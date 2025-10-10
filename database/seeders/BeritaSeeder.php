@@ -23,12 +23,12 @@ class BeritaSeeder extends Seeder
             ],
             [
                 'gambar' => 'https://asset-2.tribunnews.com/jabar/foto/bank/images/technical-trainer-sub-dept-head-dam-ade-rohman-kanan-memegang-naskah-mou.jpg',
-                'judul' => 'DAM Kerjasama dengan SMKN 4 Tasikmalaya Terapkan KTBSM Sepeda Motor Astra Honda',
+                'judul' => 'DAM Kerjasama dengan SMKN 4 Tasikmalaya Terapkan KTBSM',
                 'link' => 'https://jabar.tribunnews.com/2023/03/02/sinergi-bagi-negeri-dam-kerjasama-dengan-smkn-4-tasikmalaya-terapkan-ktbsm-sepeda-motor-astra-honda',
             ],
             [
                 'gambar' => 'https://img.inews.co.id/media/600/files/networks/2024/10/07/e5a0d_penyuluhan.jpg',
-                'judul' => 'Polsek Cibeureum Sosialisasikan Larangan Knalpot Brong dan Geng Motor di SMKN 4 Kota Tasikmalaya',
+                'judul' => 'Sosialisai oleh Polsek Cibeureum di SMKN 4 Kota Tasikmalaya',
                 'link' => 'https://tasikmalaya.inews.id/read/502735/polsek-cibeureum-sosialisasikan-larangan-knalpot-brong-dan-geng-motor-di-smkn-4-kota-tasikmalaya',
             ]
         ];

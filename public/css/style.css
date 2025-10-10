@@ -11,4 +11,16 @@
     color: #fff;
 }
 
+.sambutan {
+    background-color: steelblue;
+    color: white;
+}
+
+.judul {
+    background-color: steelblue;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+
 

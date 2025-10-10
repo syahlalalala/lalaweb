@@ -10,7 +10,8 @@ class Galeri extends Model
     use HasFactory;
 
     protected $fillable = [
-        'gambar'
+        'gambar',
+        'judul'
     ];
 
 }
