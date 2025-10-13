@@ -17,5 +17,9 @@ Route::get('/profil', function () {
 
 
 Route::get('berita', [BeritaController::class, 'index'])->name('berita');
-Route::get('eskul', [EskulController::class, 'index'])->name('eskul');
+// Route::get('eskul', [EskulController::class, 'index'])->name('eskul');
 Route::get('galeri', [GaleriController::class, 'index'])->name('galeri');
+
+//Rute Ekskul
+Route::resource('ekskul', EkskulController::class);
+Route::get('/ekstrakurikuler', [EkskulController::class, 'ekstrakurikuler'])->name('ekstrakurikuler');
