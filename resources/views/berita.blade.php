@@ -16,7 +16,7 @@
                             </div>
                             <div class="card-body">
                                 <h4 class="text-start">{{ $item->judul }}</h4>
-                                <a target="_blank" class="btn btn-outline-primary"
+                                <a class="btn btn-outline-primary"
                                     href={{ $item->link }}>Baca
                                     Selengkapnya</a>
                             </div>

@@ -31,7 +31,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
         </div>
         </div>
     </div>
-<!-- End Section Sambutan -->
+    <!-- End Section Sambutan -->
   <!-- Section Statistik -->
     <div class="row mt-3">
         <h2 class="judul"><i class="bi bi-bar-chart-line-fill"></i> Statistik</h2>
@@ -91,7 +91,7 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                             </div>
                             <div class="card-body">
                                 <h3 class="text-start">Skill Competition 2024 di selenggarakan oleh Safety Riding Center PT Daya Adicipta Motora</h3>
-                                <a target="_blank" class="btn btn-primary" href="https://radartasik.id/2024/10/07/tujuh-siswa-smkn-4-tasikmalaya-raih-beasiswa-dari-yayasan-astra-honda-motor/">Baca Selengkapnya</a>
+                                <a class="btn btn-primary" href="/berita1">Baca Selengkapnya</a>
                             </div>
                         </div>
                     </div>
@@ -101,8 +101,8 @@ Akhirnya, saya mengucapkan terimakasih yang sebesar-besarnya kepada semua pihak 
                                 <img src="https://assets.radartasik.id/main/2023/10/SMKN-4.jpg" width="100%" alt="">
                             </div>
                             <div class="card-body">
-                                <h3 class="text-start">Job Fair Untuk Pencari Kerja dan Edu Fair Talkshow Motekar bagi Siswa Siswi dan Alumni SMKN 4 Tasikmalaya</h3>
-                                <a target="_blank" class="btn btn-primary" href="https://ruangatas.com/smkn-4-tasikmalaya-gelar-job-fair-2023-harapkan-angka-pengangguran-di-tasikmalaya-berkurang/">Baca Selengkapnya</a>
+                                <h3 class="text-start">Job Fair Untuk Pencari Kerja dan Edu Fair bagi Siswa Siswi dan Alumni SMKN 4 Tasikmalaya</h3>
+                                <a class="btn btn-primary" href="/berita2">Baca Selengkapnya</a>
                             </div>
                         </div>
                     </div>

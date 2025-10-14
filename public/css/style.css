@@ -1,13 +1,11 @@
 
 .banner {
-    height: 400px;
     background: url(../asset/image/smk.jpg);
     background-size: cover;
     height: 400px;
     padding: 150px 0px;
     background-repeat: no-repeat;
     background-position: center;
-    height: 400px;
     color: #fff;
 }
 
@@ -23,4 +21,8 @@
     color: white;
 }
 
+.apa {
+    padding-top: 55px;
+    padding-right: 20px;
+}
 
